@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/apphba/static/css/main.5060013b.css",
-    "main.js": "/apphba/static/js/main.c0dcbade.js",
+    "main.css": "/apphba/static/css/main.e4864685.css",
+    "main.js": "/apphba/static/js/main.10b993f9.js",
     "index.html": "/apphba/index.html",
-    "main.5060013b.css.map": "/apphba/static/css/main.5060013b.css.map",
-    "main.c0dcbade.js.map": "/apphba/static/js/main.c0dcbade.js.map"
+    "main.e4864685.css.map": "/apphba/static/css/main.e4864685.css.map",
+    "main.10b993f9.js.map": "/apphba/static/js/main.10b993f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.5060013b.css",
-    "static/js/main.c0dcbade.js"
+    "static/css/main.e4864685.css",
+    "static/js/main.10b993f9.js"
   ]
 }
