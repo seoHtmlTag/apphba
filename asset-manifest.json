@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/apphba/static/css/main.b0512fbf.css",
-    "main.js": "/apphba/static/js/main.e7526f1b.js",
+    "main.js": "/apphba/static/js/main.67c1811e.js",
     "index.html": "/apphba/index.html",
     "main.b0512fbf.css.map": "/apphba/static/css/main.b0512fbf.css.map",
-    "main.e7526f1b.js.map": "/apphba/static/js/main.e7526f1b.js.map"
+    "main.67c1811e.js.map": "/apphba/static/js/main.67c1811e.js.map"
   },
   "entrypoints": [
     "static/css/main.b0512fbf.css",
-    "static/js/main.e7526f1b.js"
+    "static/js/main.67c1811e.js"
   ]
 }
