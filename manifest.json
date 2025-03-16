@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "short_name": "APPHBA",
   "name": "APPHBA",
   "icons": [
@@ -13,10 +13,11 @@
   "background_color": "#ffffff",
 
   "version": "1.0",
-  "app": {
-    "background": {
-      "scripts": ["background.js"]
-    }
+  "background": {
+    "service_worker": "background.js"
   },
-  "permissions": ["tabs"]
+  "permissions": ["tabs"],
+  "action": {
+    "default_title": "Open Example.com"
+  }
 }
