@@ -10,5 +10,11 @@
   "display": "browser",
   "theme_color": "#000000",
   "background_color": "#ffffff",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Open in same tab"
+  },
   "permissions": ["tabs"]
 }
