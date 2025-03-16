@@ -8,16 +8,7 @@
     { "src": "/apphba/favicon.ico", "sizes": "32x32", "type": "image/x-icon" }
   ],
   "start_url": ".",
-  "display": "browser",
+  "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff",
-
-  "version": "1.0",
-  "background": {
-    "service_worker": "background.js"
-  },
-  "permissions": ["tabs"],
-  "action": {
-    "default_title": "Open Example.com"
-  }
+  "background_color": "#ffffff"
 }
